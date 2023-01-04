@@ -1,0 +1,86 @@
+h1 {
+    background-color: #f58ea0;
+    color: #dad8d8;
+}
+
+h2 {
+    background-color: #dad8d8;
+    color: #f112f1;
+}
+
+#main-topic-p {
+    background-color: hotpink;
+}
+
+.h3-main {
+    background-color: #ebf64d;
+}
+
+.h3-main:hover {
+    color: rgb(30, 215, 240);
+}
+
+.main-list {
+    background-color: rgb(30, 215, 240);
+    list-style: none;
+}
+
+.main-list:hover {
+    background-color: #ebf64d;
+}
+
+.partners:active {
+    background-color: hotpink;
+    color: #efefef;
+}
+
+#contact:visited {
+    color: rgb(30, 215, 240);
+}
+
+.contact-list {
+    background: rgb(30, 215, 240);
+    list-style: circle;
+}
+
+.contact-list:hover {
+    background: #f58ea0;
+}
+
+#main:visited {
+    color: #ec10bd;
+}
+
+#main-header {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+a img {
+    width: 125px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#lollipop {
+    float: left;
+    border: 5px solid #ebf64d;
+}
+
+#candy-floss {
+    float: right;
+    border: 5px solid #1ed7f0;
+}
+
+#jellybeans {
+    float: left;
+    border: 5px solid #ff69b4;
+}
+
+#contact-header {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
